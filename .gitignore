@@ -1,0 +1,16 @@
+# Sensitive files
+.env
+config/keys.json
+database/credentials/
+secrets/
+
+# Node.js dependencies (optional if reinitializing)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
